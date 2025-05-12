@@ -9,7 +9,7 @@
 
 - 🎓 I am a student from the Netherlands with a passion for development.
 - 🌱 Currently diving into Lua development.
-- 💼 Currently working on: **(FortiLog)[https://github.com/Klaver36/FortiLog]**
+- 💼 Currently working on: **[FortiLog](https://github.com/Klaver36/FortiLog)**
 - 🧠 Fun fact: **Did you know that FortiLog currently protects 0+ servers**
 
 ---
