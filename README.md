@@ -25,11 +25,11 @@
 ### 📈 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[jouwgebruikersnaam]&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klaver36&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[jouwgebruikersnaam]&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klaver36&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jouwgebruikersnaam]&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaver36&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -37,7 +37,6 @@
 ### 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/821120248425873468)  
-[Andere socials hier toevoegen]
 
 ---
 
