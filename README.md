@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, ik ben [Jouw Naam]</h1>
+<h1 align="center">👋 Klaver.36</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Developer+%7C+FortiLog+%7C+Protect+And+Serve+%7C+Always+Learning" />
 </p>
@@ -9,8 +9,8 @@
 
 - 🎓 I am a student from the Netherlands with a passion for development.
 - 🌱 Currently diving into Lua development.
-- 💼 Currently working on: **[projecten of repos]**
-- 🧠 Fun fact: **[iets luchtigs of nerdy]**
+- 💼 Currently working on: **FortiLog**
+- 🧠 Fun fact: **Did you know that FortiLog currently protects 0+ servers**
 
 ---
 
