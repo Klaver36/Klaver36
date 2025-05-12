@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, ik ben [Jouw Naam]</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Developer+%7C+[Jouw+Specialiteit]+%7C+Open+Source+Fan+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Developer+%7C+Developer+%7C+Open+Source+Fan+%7C+Always+Learning" />
 </p>
 
 ---
